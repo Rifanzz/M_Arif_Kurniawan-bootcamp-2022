@@ -4,7 +4,7 @@
     <header class="bg-dark py-5">
         <div class="container px-4 px-lg-5 my-5">
             <div class="text-center text-white">
-                <h1 class="dispay-4 fw-bolder">Shop in style</h1>
+                <h1 class="dispay-4 fw-bolder">Silahkan Pilih Produk Yang Diinginkan</h1>
             </div>
         </div>
     </header>
